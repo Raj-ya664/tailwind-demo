@@ -1,3 +1,3 @@
 # tailwind-demo
 
-explore the Power of Tailwind 
+explore the Power of Tailwind CSS
